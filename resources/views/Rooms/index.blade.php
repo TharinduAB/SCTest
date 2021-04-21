@@ -1,7 +1,8 @@
 @extends('Layouts.app')
 @section('content')
-
+      
       <!--header part which shows the path to the current page-->
+      <!--top common header is inside the layout.app.blade file-->
       <div>
         <br>
         <a href               = "/" style="font-family:calibri;font-size:18px;"> Home  </a>
