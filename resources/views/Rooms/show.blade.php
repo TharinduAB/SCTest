@@ -24,7 +24,7 @@
         </div>
 
         <div class="col-12 pt-2">
-            <a href="/RM/roomList" class="btn btn-dark btn-sm float-right">Go back</a>
+            <a href="/RM/roomList" class="btn btn-dark btn-sm float-right">Go back to roomList</a>
             <h1 class="display-one">Room {{ ($room->roomNo) }}</h1>
         </div>
         <div class="carousel">     
